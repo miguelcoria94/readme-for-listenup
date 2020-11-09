@@ -98,7 +98,7 @@ When a user trys to access a page that they are not authorized to access
   
   ## Listen Status
   
-  Users are able to to update the status of a podcast via a drop down menu on the selected podcast name. When a user updates the status on a podcast a request is made in the background to update the playlist associated with the users selection.
+  Users are able to to update the status of a podcast via a drop down menu on the selected podcast name. When a user updates the status on a podcast a request is made in the background to update the playlist associated with the users selection. [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/public/javascripts/playlist.js)
   
   ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(6).gif)
   
