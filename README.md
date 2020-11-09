@@ -102,7 +102,8 @@ When a user trys to access a page that they are not authorized to access
   
   ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(6).gif)
   
-  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/16dd11eca7e24ce1f93a95bbcd657532.png)
+  
+  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/74185595068382b0ea0db3e5cd7d2a51.png)
   
   
  
