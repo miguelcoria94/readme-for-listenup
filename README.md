@@ -53,7 +53,7 @@ Listenup's register and login forms have input validations to enforce clean data
 
 When a user trys to access a page that they are not authorized to access
 
-<h1 align="center">
+<h1 >
   <a name="logo" href="https://aa-listen-up.herokuapp.com/"><img src="https://github.com/miguelcoria94/readme-for-listenup/blob/main/e80fa4add8b232f9e2b2db2f21364ac9.png" alt="js-logo" width="50%"></a>
  </h1>
 
