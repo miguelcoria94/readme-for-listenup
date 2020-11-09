@@ -32,7 +32,7 @@ A live version of our application can be found [here](https://aa-listen-up.herok
 ## Basic Overview
 
 Listenup is podcast cataloging web application inspired by Goodreads. As a logged out user, you only have the ability to browse the front page. As a logged in user you have the ability to rate and review podcasts. As a logged in user you also have the ability to create, update and edit playlist.
-<br>
+
 ![home gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker.gif)
 
 <br>
