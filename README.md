@@ -60,7 +60,7 @@ When a user trys to access a page that they are not authorized to access
  ## Podcasts
  
  Listenup's entire purpose is to allow users to catalog and organize podcasts. Each podcast has a title, hostname, publisher, cover image, and description attached to it.
- Users are able to add these podcast to a premade playlist, leave a rating and leave a review. Each podcast page also has a link that takes them directly to spotify or apple. [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/routes/podcasts.js)
+ Users are able to add/remove these podcasts to premade playlist, leave a rating and leave a review. Each podcast page also has a link that takes them directly to spotify or apple. [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/routes/podcasts.js)
  
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(3).gif)
  
