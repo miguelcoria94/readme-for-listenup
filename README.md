@@ -64,6 +64,8 @@ When a user trys to access a page that they are not authorized to access
  
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(3).gif)
  
+ Each route to a podacast uses a regex expression to make sure a valid string is being pased into the url. The req.param is used to retrieve the podcast Id from the database. The Id is also used to retrive the podcast rating. If the user has not submitted a review then the review is set to 0. 
+ 
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/d737524ea38cb46c30ac4741763f8cb0.png)
  
 
