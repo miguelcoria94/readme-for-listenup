@@ -88,7 +88,11 @@ When a user trys to access a page that they are not authorized to access
  
  ## Reviews
  
+ Users are able to leave reviews for each podcasts! Each review is able to be deleted and edited. Each review has a podcast Id asscociated with it and can be viewed by other users. 
+ 
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(5).gif)
+ 
+  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(5).gif)
  
  
 
