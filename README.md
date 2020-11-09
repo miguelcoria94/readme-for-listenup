@@ -88,13 +88,17 @@ When a user trys to access a page that they are not authorized to access
  
  ## Reviews
  
- Users are able to leave reviews for each podcasts! Each review is able to be deleted and edited. Each review has a podcast Id asscociated with it and can be viewed by other users. 
+ Users are able to leave reviews for each podcasts! Each review is able to be deleted and edited. Each review has a podcast Id asscociated with it and can be viewed by other users. [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/routes/podcasts.js)
  
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(5).gif)
  
   ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/fc49012b919d54ddce109c357a676d33.png)
   
-  ## Read Status
+  ## Listen Status
+  
+  Users are able to to update the status of a podcast via a drop down menu on the selected podcast name. When a user updates the status on a podcast a request is made in the background to update the playlist associated with the users selection.
+  
+  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(6).gif)
   
   
  
