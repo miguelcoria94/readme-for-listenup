@@ -94,13 +94,15 @@ When a user trys to access a page that they are not authorized to access
  
   ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/fc49012b919d54ddce109c357a676d33.png)
   
-  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/fc49012b919d54ddce109c357a676d33.png)
+  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/16dd11eca7e24ce1f93a95bbcd657532.png)
   
   ## Listen Status
   
   Users are able to to update the status of a podcast via a drop down menu on the selected podcast name. When a user updates the status on a podcast a request is made in the background to update the playlist associated with the users selection.
   
   ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(6).gif)
+  
+  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/16dd11eca7e24ce1f93a95bbcd657532.png)
   
   
  
