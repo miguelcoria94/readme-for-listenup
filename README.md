@@ -84,7 +84,11 @@ When a user trys to access a page that they are not authorized to access
  
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/c579e00a92ba1a2930e5e848d4dbe5a2.png)
  
- ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/c579e00a92ba1a2930e5e848d4dbe5a2.png)
+ ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/59a235718c62e875cd1c6d6b66872bed.png)
+ 
+ ## Reviews
+ 
+ 
 
  
  
