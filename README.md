@@ -29,9 +29,9 @@ A live version of our application can be found [here](https://aa-listen-up.herok
   <a name="logo" href="https://aa-listen-up.herokuapp.com/"><img src="https://i.ibb.co/RvbxMX6/d143e1526e431e9668ad77077c6d4eae.png" alt="Listenup-home" width="80%"></a>
 </h1>
 
-## Basic Overview
+## Overview
 
-Listenup is podcast cataloging web application inspired by Goodreads. As a logged out user, you only have the ability to browse the front page. As a logged in user you have the ability to rate and review podcasts. As a logged in user you also have the ability to create, update and edit playlist.
+Listenup is podcast cataloging web application inspired by Goodreads. As a logged out user, you only have the ability to browse the front page. As a logged in user you have the ability to rate and review podcasts. As a logged in user you also have the ability to create, update and edit playlist. Listenup is built with Express JS, The Pug Template Engine, and Vanilla CSS.
 
 ![home gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker.gif)
 
