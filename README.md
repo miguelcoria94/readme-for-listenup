@@ -45,4 +45,6 @@ Listenup is podcast cataloging web application inspired by Goodreads. As a logge
 
 Users can securely create an account using our login and logut feature. Listenup uses bcrypt to securely hash passwords so that no plain text passwords are ever stored in the database. listenup also uses various middleware functions when processing request and responses so that we know a user is who they say they are. Certain routes also require user authenication for pages to be accessed. [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/routes/users.js)
 
+![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(1).gif)
+
 
