@@ -36,3 +36,9 @@ Listenup is podcast cataloging web application inspired by Goodreads. As a logge
 ![home gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker.gif)
 
 <br>
+
+<h1 align="center">
+  Features
+</h1>
+
+## User Authenication
