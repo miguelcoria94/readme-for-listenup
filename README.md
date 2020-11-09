@@ -73,6 +73,8 @@ When a user trys to access a page that they are not authorized to access
  
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/2d1424a5ed4d10dfbb5483fe89661219.png)
  
+ ## Playlists
+ 
 
 
 
