@@ -34,6 +34,6 @@ A live version of our application can be found [here](https://aa-listen-up.herok
 
 Using stock historical data, train a supervised learning algorithm with any combination of financial indicators. Rapidly backtest your model for accuracy and simulate investment portfolio performance. 
 <br>
-<img src="https://media.giphy.com/media/CKwYAZum5GbG2GgoSw/giphy.gif" width="40" height="40" />
+![home gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker.gif)
 
 <br>
