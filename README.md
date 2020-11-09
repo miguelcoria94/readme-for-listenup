@@ -75,6 +75,10 @@ When a user trys to access a page that they are not authorized to access
  
  ## Playlists
  
+ ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(4).gif)
+ 
+ 
+ 
 
 
 
