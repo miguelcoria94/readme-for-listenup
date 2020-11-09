@@ -78,6 +78,10 @@ When a user trys to access a page that they are not authorized to access
   Goodreads has bookshelves, Listenup has playlists. There are 4 premade playlists (My First Playlist, Currently Listening, Want to Listen, Listened). Each playlist has a title, datecreated, and a link to all of the podcast associated with it. Users are only able to update there playlist from the podcast page right now.
  
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(4).gif)
+ 
+ When a user logs in they are immediately taking to the playlists page. There is an event listener set up on the sidebar container listening for user input. When a user clicks the name of a playlist the page is not refreshed there are several function working together to render the playlist. One of the functions makes one of the playlist active and loops to make all of the other playlist inactive. Another funciton is then used to populate the main container with playlist data. Because some of the podcasts have large descriptions there is a function to shorten the description and let the user know to click the podcast to read the full description.  [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/public/javascripts/playlist.js)
+ 
+ 
 
 
  
