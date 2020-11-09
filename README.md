@@ -69,7 +69,7 @@ When a user trys to access a page that they are not authorized to access
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/d737524ea38cb46c30ac4741763f8cb0.png)
  
  There are several components working together to get the rating feature to work. Many helper functions are being imported to help with the POST, PUT, DELETE functionality.
- An event listener is set up to listen for user input when a star is clicked. Each star is being compared to an array of five elements. The index of the star is used to set the rating in the dataase. That index is then used to render the number of stars to be rendered colored in. [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/public/javascripts/formInputs.js)
+ An event listener is set up to listen for user input when a star is clicked. Each star is being compared to an array of five elements. The index of the star is used to set the rating in the database. That index is then being used to render the number of colored in. [CHECK IT OUT](https://github.com/jamestlee513/listen-up/blob/main/public/javascripts/formInputs.js)
  
  ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/2d1424a5ed4d10dfbb5483fe89661219.png)
  
