@@ -51,6 +51,10 @@ Listenup's register and login forms have input validations to enforce clean data
 
 ![user register gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(2).gif)
 
+When a user trys to access a page that they are not authorized to access
+
+![user auth img](https://github.com/miguelcoria94/readme-for-listenup/blob/main/e80fa4add8b232f9e2b2db2f21364ac9.png)
+
 
 
 
