@@ -48,6 +48,7 @@ Users can securely create an account using our login and logut feature. Listenup
 ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/b4e89c9ab44e6ba8c4d53650b21ce3e0%20(1).png)
 
 Listenup's register and login forms have input validations to enforce clean data submission and protect the integrity of the data submitted.
+![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(2).gif)
 
 
 
