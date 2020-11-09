@@ -62,7 +62,7 @@ When a user trys to access a page that they are not authorized to access
  Listenup's entire purpose is to allow users to catalog and organize podcasts. Each podcast has a title, hostname, publisher, cover image, and description attached to it.
  Users are able to add these podcast to a premade playlist, leave a rating and leave a review. Each podcast page also has a link that takes them directly to spotify or apple.
  
- ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/b4e89c9ab44e6ba8c4d53650b21ce3e0%20(1).png)
+ ![user auth gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker%20(3).gif)
  
 
 
