@@ -5,7 +5,6 @@
 </h1>
 
 <h4 align="center">Listenup is a cataloging website that allows users to interact with a database of podcasts. Users can sign up and register to create and edit playlists.</h4>
-
 <h1 align="center">
   <a name="logo" href="https://aa-listen-up.herokuapp.com/"><img src="https://i.ibb.co/wMYVZYS/icons8-javascript-96.png" alt="js-logo" width="50"></a>
   <a name="logo" href="https://aa-listen-up.herokuapp.com/"><img src="https://i.ibb.co/xMxSMkw/icons8-pug-96.png" alt="pug-logo" width="50"></a>
@@ -32,7 +31,7 @@ A live version of our application can be found [here](https://aa-listen-up.herok
 
 ## Basic Overview
 
-Using stock historical data, train a supervised learning algorithm with any combination of financial indicators. Rapidly backtest your model for accuracy and simulate investment portfolio performance. 
+Listenup is podcast cataloging web application inspired by Goodreads. As a logged out user, you only have the ability to browse the front page. As a logged in user you have the ability to rate and review podcasts. As a logged in user you also have the ability to create, update and edit playlist.
 <br>
 ![home gif](https://github.com/miguelcoria94/readme-for-listenup/blob/main/ezgif.com-gif-maker.gif)
 
